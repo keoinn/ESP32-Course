@@ -1,0 +1,11 @@
+Package Json
+http://arduino.esp8266.com/stable/package_esp8266com_index.json
+https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32_index.json
+
+
+Board: DOIT ESP32 DEVKIT V1
+
+ESPTOOL
+https://espressif.github.io/esptool-js/
+
+Line Simple Beacon
