@@ -7,5 +7,6 @@ Board: DOIT ESP32 DEVKIT V1
 
 ESPTOOL
 https://espressif.github.io/esptool-js/
+https://bitmaker-hub.github.io/diyflasher/
 
 Line Simple Beacon
